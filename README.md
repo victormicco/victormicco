@@ -6,7 +6,7 @@
 
 ## i really don't know why i wasn't here before, it's so cool 🎉🎉
 
-#### Some more things below 📱
+#### Things that I've been using in the last months 📱
  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </img>
  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
