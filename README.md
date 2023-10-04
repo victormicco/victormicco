@@ -1,16 +1,60 @@
-# Hi everyone, I'm Victor Micco!!
+# Introduction
 
-### I have been learning programming since 2020
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormicco&show_icons=true&theme=aura)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)](https://github.com/victormicco/github-readme-stats)
+Hello, I'm Victor, a passionate programmer and developer. This README serves as a brief introduction to who I am and the skills I bring to the table in the world of software development.
+
+## About Me
+
+
+- **Location:** São Paulo, Brazil
+- **Email:** victor.oficial093@gmail.com
+- **LinkedIn:** [Victor Micco on Linkedin](https://www.linkedin.com/in/victormicco)
+
+
+## Background
+
+I've been developing softwares since 2020, working on personal projects and freelance projects. Actually I work at Nitro as a I.T 
+infrastructure maintance, I'm looking for a position as a Sofware Developer.
+
+## Programming Languages
+
+I am proficient in the following programming languages:
+
+
+- **JavaScript:** I have a solid knowledge with JS, I did a lot of projects using features that I was learning, like DOM, consuming API, Create API, Frameworks and libs, etc.
+- **Java:** I have a basic knowledge with Java, I know Object-oriented programming (OOP), WindowBuilder Lib, and a did a bit of projects like auth db with SQL, consume api and front-end stuff.
+- **PHP** I Have a basic knowledge with PHP, I just learned the basics and create a CRUD with that, was the language that I learn the logical mindset.
+- **Typescript** I have solid knowledge with TS, when i found out this language a create a lot of projects and using different kind of feature like Frameworks (Electron, Next, React Native, etc), and consuming all type of libs that I saw on Youtube and stuff.
+
+## Technologies and Tools
 
 
 
-#### Techs that I've been using in the last months 📱
- <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </img>
- <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+- **Web Development:** HTML, CSS, React, Node.js, Express.js, Next, Tailwind, etc.
+- **Databases:** SQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Development Tools:** Visual Studio Code, Eclypse and Pycharm
+
+
+## Skills
+
+- **Problem Solving** 
+- **Teamwork** 
+- **Communication**
+- **Continuous Learning**
+-  **English**
+-   **Math:** 
+
+
+
+
+## Contact
+
+Feel free to reach out to me via email at [victor.oficial093@gmail.com](mailto:victor.oficial093@gmail.com) or connect with me on LinkedIn at [my profile](https://www.linkedin.com/in/victormicco). I'm open to collaboration and new opportunities!
+
+Thank you for taking the time to learn about me and my skills. I look forward to connecting with you.
+
+
+
+
+
+
