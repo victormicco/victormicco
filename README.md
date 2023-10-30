@@ -8,12 +8,12 @@ Hello, I'm Victor, a passionate programmer and developer. This README serves as 
 - **Location:** São Paulo, Brazil
 - **Email:** victor.oficial093@gmail.com
 - **LinkedIn:** [Victor Micco on Linkedin](https://www.linkedin.com/in/victormicco)
-
+- **Professional Github** [Victor Micco - Anjun Express](https://github.com/victormicco-anjun)
 
 ## Background
 
-I've been developing softwares since 2020, working on personal projects and freelance projects. Actually I work at Nitro as a I.T 
-infrastructure maintance, I'm looking for a position as a Sofware Developer.
+I've been developing softwares since 2020, working on personal projects and freelance projects. Actually I work at Anjun Express
+as a Software Developer
 
 ## Programming Languages
 
