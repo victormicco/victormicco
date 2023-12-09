@@ -29,7 +29,7 @@ I am proficient in the following programming languages:
 
 
 
-- **Web Development:** HTML, CSS, React, Node.js, Express.js, Next, Tailwind, etc.
+- **Web Development:** HTML, CSS, React, Next, Tailwind, etc.
 - **Databases:** SQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Development Tools:** Visual Studio Code, Eclypse and Pycharm
