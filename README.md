@@ -12,7 +12,7 @@ Hello, I'm Victor, a passionate programmer and developer. This README serves as 
 
 ## Background
 
-I've been developing softwares since 2020, working on personal projects and freelance projects. Actually I work at Anjun Express
+I've been developing software since 2020, working on personal projects and freelance projects. Nowadays I work at Anjun Express
 as a Software Developer
 
 ## Programming Languages
@@ -20,10 +20,10 @@ as a Software Developer
 I am proficient in the following programming languages:
 
 
-- **JavaScript:** I have a solid knowledge with JS, I did a lot of projects using features that I was learning, like DOM, consuming API, Create API, Frameworks and libs, etc.
-- **Java:** I have a basic knowledge with Java, I know Object-oriented programming (OOP), WindowBuilder Lib, and a did a bit of projects like auth db with SQL, consume api and front-end stuff.
-- **PHP** I Have a basic knowledge with PHP, I just learned the basics and create a CRUD with that, was the language that I learn the logical mindset.
-- **Typescript** I have solid knowledge with TS, when i found out this language a create a lot of projects and using different kind of feature like Frameworks (Electron, Next, React Native, etc), and consuming all type of libs that I saw on Youtube and stuff.
+- **JavaScript:** I got  solid knowledge with JS, I did a lot of projects using features that I was learning, like DOM, consuming API, Create API, Frameworks and libs, etc.
+- **Java:** I got basic knowledge with Java, I know Object-oriented programming (OOP), WindowBuilder Lib, and I did some projects like auth db with SQL, consume api and front-end stuff.
+- **PHP** I got basic knowledge with PHP, I just learned the basics and create a CRUD with that, was the language that I learn the logical mindset.
+- **Typescript** I got solid knowledge with TS, when i found out this language I create a lot of projects and using different kind of framworks and libs like (Electron, Next, React Native, etc), and consuming all type of libs that I found on internet.
 
 ## Technologies and Tools
 
