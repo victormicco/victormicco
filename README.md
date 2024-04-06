@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I'm Victor, a passionate programmer and developer. This README serves as a brief introduction to who I am and the skills I bring to the table in the world of software development.
+Hello, I'm Victor, a passionate developer. This README serves as a brief introduction to who I am and the skills I bring to the table in the world of software development.
 
 ## About Me
 
@@ -42,7 +42,7 @@ I am proficient in the following programming languages:
 - **Communication**
 - **Continuous Learning**
 -  **English**
--   **Math:** 
+-   **Math** 
 
 
 
