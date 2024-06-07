@@ -3,7 +3,7 @@ class AboutMe {
   constructor() {
     this.info = {
       name: "Victor Micco",
-      age: 19,
+      age: 20,
       area: "Fullstack Developer",
       workinAt: "Comhub",
       previousExperience: [
