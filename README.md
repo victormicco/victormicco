@@ -18,11 +18,6 @@ class AboutMe {
           period: "2023 - 2023 | 6 months",
         },
         {
-          company: "Nitro",
-          role: "Infrastructure Analyst",
-          period: "2023 - 2023 | 6 months",
-        },
-        {
           company: "Metrô de São Paulo",
           role: "Mechatronical Technician",
           period: "2022 - 2023 | 1,3 years",
